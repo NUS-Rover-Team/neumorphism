@@ -11,7 +11,7 @@ baseurl: "/webpage"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: nusroverteam
+username: NUS Rover Team
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: A flagship project under NUS SEDS
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Us
 # about_me_description: This will be displayed under the title.
-about_me_description: We are a multi-disciplinary team from FoE, FoS and SoC We are a multidisciplinary team from FoE, FoS and SoC intending to participate in the prestigious University Rover Challenge 2021 held annually at the Mars Desert Research Station (MDRS) in Utah, USA. In AY19/20, our team was the only team to get selected for the second round of competition from South East Asia. This year, we are aiming for the big prize - reaching the finals held in MDRS.
+about_me_description: We are a multidisciplinary team from FoE, FoS and SoC intending to participate in the prestigious University Rover Challenge 2021 held annually at the Mars Desert Research Station (MDRS) in Utah, USA. In AY19/20, our team was the only team to get selected for the second round of competition from South East Asia. This year, we are aiming for the big prize - reaching the finals held in MDRS.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -49,10 +49,10 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Timeline for this Academic Year
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: 
 
 # PROJECTS SECTION
 # show_projects_card:
