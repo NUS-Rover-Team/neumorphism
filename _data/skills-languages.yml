@@ -5,38 +5,17 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: ROS
   weight: 5
 
-- name: JavaScript
+- name: Solidworks CAD
   weight: 4
 
-- name: Python
+- name: Soldering and Wiring
   weight: 2
 
-- name: HTML5
+- name: PCB CAD Design 
   weight: 4
 
-- name: CSS3
+- name: Linux
   weight: 3
-
-- name: SASS
-  weight: 3
-
-- name: Java
-  weight: 1
-
-- name: Dart
-  weight: 1
-
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
-  weight: 2
-
-- name: Ruby
-  weight: 2
