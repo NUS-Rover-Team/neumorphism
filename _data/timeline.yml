@@ -17,4 +17,14 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Under Construction!
+- title: Rover x Autonomy Bootcamp 
+  title-url: https://example.com/
+  date: 24th Aug 2020 - 8th Sept 2020
+  subtitle: BOO
+  tags:
+    - tag: Solidworks
+    - tag: ROS
+    - tag: Arduino
+    - tag: EAGLE CAD
+  timeline-side: right
+  
